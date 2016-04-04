@@ -1,0 +1,55 @@
+/*
+Theme name: platzi
+Theme URIL: http://google.com;
+Author: we made this;
+Author URI: you don't know;
+Description: this is the best theme ever!!;
+Version: 1.0.0;
+Licese: GPL;
+*/
+
+body{
+	background-color: white;
+}
+
+h3 a{
+	color: orange;
+	text-decoration: none;
+}
+
+article{
+	display: inline-block;
+    width: 47%;
+    box-sizing: border-box;
+    vertical-align: text-top;
+    background-color: whitesmoke;
+    padding: 1%;
+    margin: 1%;
+}
+
+figure{
+	text-align: center;
+	border: 2px solid grey;
+	padding: 1px;
+}
+
+.datos{
+	border-bottom: 1px solid red;
+}
+
+.footer-home{
+	background-color: blue;
+}
+
+.footer-home li{
+	display: inline-block;
+	color: white;
+}
+
+
+
+
+
+
+
+
